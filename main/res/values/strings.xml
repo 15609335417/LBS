@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">位置服务</string>
+    <string name="title_data">数据</string>
+    <string name="title_map">地图</string>
+    <string name="title_my">我的</string>
+    <string name="SL">步长</string>
+    <string-array name="spinner_data">
+        <item>0.70</item>
+        <item>0.71</item>
+        <item>0.72</item>
+        <item>0.73</item>
+        <item>0.74</item>
+        <item>0.75</item>
+        <item>0.76</item>
+        <item>0.77</item>
+        <item>0.78</item>
+        <item>0.79</item>
+        <item>0.80</item>
+        <item>0.81</item>
+        <item>0.82</item>
+        <item>0.83</item>
+        <item>0.84</item>
+        <item>0.85</item>
+    </string-array>
+
+</resources>
